@@ -1,5 +1,9 @@
 # howto-move-linux-mount-to-a-new-disk
 
+this is more a personal not for myself rather then a bullet-proof instruction. It worked for me though.
+
+Still you should rather use it with care an on your own risk.
+
 # 1.) add new disk/patition to your system and mount it to a temporary mountpoint
 
 `mkdir /mnt/temp`
