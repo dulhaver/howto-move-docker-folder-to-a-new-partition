@@ -1,4 +1,4 @@
-# howto-move-linux-mount-to-a-new-disk
+# howto-move `/var/lib/docker` to a new partition
 
 this is more a personal not for myself rather then a bullet-proof instruction. It worked for me though.
 
