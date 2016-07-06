@@ -11,7 +11,7 @@ Still you should rather use it with care an on your own risk.
 `sudo mount /dev/sdx1 /mnt/temp`
 
 
-# 2.) `rsync` or `cp` content of the folder you want to move to the new mount
+# 2.) `rsync` or `cp` content of the `/var/lib/docker/` to the new mount
 
 `rsync -azv /var/lib/docker/ /mnt/temp`   or
 
