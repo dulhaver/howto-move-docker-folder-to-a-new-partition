@@ -4,6 +4,8 @@
 
 `mkdir /mnt/temp`
 
+`sudo mount /dev/sdx1 /mnt/temp`
+
 
 # 2.) `rsync` or `cp` content of the folder you want to move to the new mount
 
