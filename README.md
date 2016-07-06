@@ -36,8 +36,11 @@ sudo mount /dev/sdx1 /var/lib/docker
 #8.) check whether docker works
 
 `docker ps -a`
+
 `docker info`
+
 `docker images`
+
 `...`
 
 #9.) delete the legacy docker folder
